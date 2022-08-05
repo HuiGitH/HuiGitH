@@ -14,14 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=HuiGitH&theme=flat) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HuiGitH)
+
 
 ![info](https://github-readme-stats.vercel.app/api?username=HuiGitH&show_icons=true&count_private=true&show_icons=true$&include_all_commits=true)     
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuiGitH&layout=compact)](https://github.com/HuiGitH/github-readme-stats)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HuiGitH)
 
 ![HuiGitH's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HuiGitH&theme=github)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=HuiGitH&theme=flat)
 
 
 
