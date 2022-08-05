@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-![info](https://github-readme-stats.vercel.app/api?username=HuiGitH&show_icons=true&count_private=true&theme=radical&show_icons=true$&include_all_commits=true)
+![info](https://github-readme-stats.vercel.app/api?username=HuiGitH&show_icons=true&count_private=true&show_icons=true$&include_all_commits=true)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuiGitH&layout=compact)](https://github.com/HuiGitH/github-readme-stats)
 
