@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **HuiGitH/HuiGitH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![trophy](https://github-profile-trophy.vercel.app/?username=HuiGitH&theme=flat)
 
 ![info](https://github-readme-stats.vercel.app/api?username=HuiGitH&show_icons=true&count_private=true&show_icons=true$&include_all_commits=true)
 
